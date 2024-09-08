@@ -1,4 +1,4 @@
-A simple CLI to do list tool written in C++. Lmk if changes are needed
+A simple CLI to do list tool written in C++. Lmk if changes are needed.
 
 **Installation**
 
